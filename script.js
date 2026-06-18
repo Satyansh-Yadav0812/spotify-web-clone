@@ -1,5 +1,5 @@
 let songs = [
-    {
+  {
     title: "Believer",
     artist: "Imagine Dragons",
     file: "songs/believer.mp3",
