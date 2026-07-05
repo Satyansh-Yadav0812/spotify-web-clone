@@ -46,8 +46,6 @@ It was developed to strengthen my front-end development skills by working with m
   <img src="assets/images/preview.png" alt="Spotify Web Clone Preview" width="100%">
 </p>
 
-> Save your project screenshot as **assets/images/preview.png**.
-
 ---
 
 # ✨ Features
