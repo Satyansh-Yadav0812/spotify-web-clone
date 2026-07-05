@@ -82,6 +82,7 @@ spotify-web-clone/
 ├── assets/
 │   └── images/
         └── preview.png
+    └──spotify-title.svg
 ├── songs/
 │
 ├── style.css
