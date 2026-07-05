@@ -1,6 +1,8 @@
 <div align="center">
 
-# 🎵 Spotify Web Clone
+<p align="center">
+  <img src="./spotify-title.svg" alt="Spotify Web Clone">
+</p>
 
 ### A modern Spotify-inspired music streaming interface built using **HTML**, **CSS**, and **JavaScript**
 
