@@ -80,19 +80,19 @@ It was developed to strengthen my front-end development skills by working with m
 spotify-web-clone/
 │
 ├── assets/
-    └── images/
-        └── preview.png
-        └── spotify-title.svg
+│    └── images/
+│        ├── preview.png
+│        └── spotify-title.svg
 │
 ├── songs/
-    └── believer.mp3
-    └── blinding_lights.mp3
-    └── cheap_thrills.mp3
-    └── house_of_memories.mp3
-    └── judas.mp3
-    └── shape_of_you.mp3
-    └── tell_aunt_rhody.mp3
-    └── to_ashes_and_blood.mp3
+│    ├── believer.mp3
+│    ├── blinding_lights.mp3
+│    ├── cheap_thrills.mp3
+│    ├── house_of_memories.mp3
+│    ├── judas.mp3
+│    ├── shape_of_you.mp3
+│    ├── tell_aunt_rhody.mp3
+│    └── to_ashes_and_blood.mp3
 │
 ├── README.md
 │
@@ -100,7 +100,7 @@ spotify-web-clone/
 │
 ├── script.js
 │
-├── style.css
+└── style.css
 ```
 
 ---
