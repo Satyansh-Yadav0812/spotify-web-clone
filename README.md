@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="./spotify-title.svg" alt="Spotify Web Clone">
+  <img src="./assets/images/spotify-title.svg" alt="Spotify Web Clone">
 </p>
 
 ### A modern Spotify-inspired music streaming interface built using **HTML**, **CSS**, and **JavaScript**
