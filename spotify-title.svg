@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="80">
+  <style>
+    .title {
+      font: bold 42px Arial, sans-serif;
+      animation: colorChange 3s infinite;
+    }
+
+    @keyframes colorChange {
+      0%   { fill: #000000; }
+      33%  { fill: #1DB954; }
+      66%  { fill: #ffffff; }
+      100% { fill: #000000; }
+    }
+  </style>
+
+  <text x="50%" y="55%" text-anchor="middle" class="title">
+    🎵 Spotify Web Clone
+  </text>
+</svg>
