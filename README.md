@@ -94,13 +94,13 @@ spotify-web-clone/
     └── tell_aunt_rhody.mp3
     └── to_ashes_and_blood.mp3
 │
-├── style.css
-│
-├── script.js
+├── README.md
 │
 ├── index.html
 │
-├── README.md
+├── script.js
+│
+├── style.css
 ```
 
 ---
