@@ -176,4 +176,3 @@ Simply open **index.html** in your preferred web browser.
 Made with ❤️ by **Satyansh Yadav**
 
 </div>
->>>>>>> 2c58dba3005a865ccd7e90642b8f8440e5558ded
