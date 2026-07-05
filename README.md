@@ -78,18 +78,17 @@ It was developed to strengthen my front-end development skills by working with m
 spotify-web-clone/
 │
 ├── assets/
-│   ├── images/
-│   ├── icons/
-│   └── songs/
+│   └── images/
+        └── preview.png
+├── songs/
 │
-├── css/
-│   └── style.css
+├── style.css
 │
-├── js/
-│   └── script.js
+├── script.js
 │
 ├── index.html
-└── README.md
+│
+├── README.md
 ```
 
 ---
